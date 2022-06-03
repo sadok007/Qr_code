@@ -1,0 +1,25 @@
+
+.vertical-heading h5 {
+    color: #2367E1;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    word-spacing: 9px;
+    display: inline-block;
+    transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    position: relative;
+    top: 80px;
+    left: -40px;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+
+.vertical-heading h2 {
+    padding-left: 50px;
+    margin-bottom: 20px;
+
+}

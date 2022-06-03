@@ -1,0 +1,58 @@
+{
+  "EmployeeList": [
+    {
+      "firstName": "sadok",
+      "lastName": "sassi",
+      "email": "sadoksassi2@gmail.com",
+      "phoneNo": "+21658412527",
+      "departement": "Marketing",
+      "start": "01/02/2022",
+      "leave": "01/03/2022",
+      "statut": "Intern",
+      "id": 1
+    },
+    {
+      "firstName": "Roua",
+      "lastName": "Mechleoui",
+      "email": "roua@gmail.com",
+      "phoneNo": "56257992",
+      "departement": "Electronics",
+      "start": "01/02/2022",
+      "leave": "01/03/2022",
+      "statut": "Intern",
+      "id": 2
+    },
+    {
+      "firstName": "haythem",
+      "lastName": "Aljane",
+      "email": "hamza.sassi020@gmail.com",
+      "phoneNo": "2478",
+      "departement": "Electronics",
+      "start": "01/02/2023",
+      "leave": "01/04/2023",
+      "statut": "Intern",
+      "id": 4
+    },
+    {
+      "firstName": "ayoub",
+      "lastName": "mrabti",
+      "email": "ayoub@gmail.com",
+      "phoneNo": "56257992",
+      "departement": "Finance",
+      "start": "01/02/2023",
+      "leave": "05/06/2023",
+      "statut": "Employee",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
